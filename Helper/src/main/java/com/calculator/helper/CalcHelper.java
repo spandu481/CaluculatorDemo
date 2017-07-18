@@ -6,7 +6,7 @@ package com.calculator.helper;
 public class CalcHelper {
 
     public int add(int a, int b) {
-asdfasdf
+
         return a + b;
     }
 }
