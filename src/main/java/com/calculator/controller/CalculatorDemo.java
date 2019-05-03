@@ -11,7 +11,7 @@ public class CalculatorDemo {
 
     public static void main (String[] args) {
 
-        int sum = calcHelper.add(2,3);
+        int sum = calcHelper.add(5,3);
 
     }
 }
